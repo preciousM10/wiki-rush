@@ -96,7 +96,7 @@ export default function Features() {
     delay: 0.3,
   }}
 >
-              <StoreButtons className="mt-8" />
+              <StoreButtons className="mt-8" />                    
             </motion.div>
                 </motion.div>
 
